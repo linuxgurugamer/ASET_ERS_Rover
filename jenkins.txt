@@ -29,7 +29,6 @@
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
 1:ASET, ASET_ERS.version, ASET_ERS_Rover
-1:Konquest, ASET_ERS.version, ASET_ERS_Rover
 
 # 3:SOURCEFILE, DESTDIR
 3:ASET_ERS.version,GameData/ASET/ERS

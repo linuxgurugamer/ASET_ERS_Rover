@@ -1,7 +1,7 @@
-
-
 ChangeLog
 
+0.4.0
+	Adoption by Linuxgurugamer
 	Formatted all files
 	Added some additional descriptive text to all parts
 	Fixed wheels to not break  as easily, they are now similar to the stock TR-L2
