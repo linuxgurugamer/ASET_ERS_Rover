@@ -1,0 +1,11 @@
+
+
+ChangeLog
+
+	Formatted all files
+	Added some additional descriptive text to all parts
+	Fixed wheels to not break  as easily, they are now similar to the stock TR-L2
+	Adjusted node sizes for the grapple & attachment parts
+	Added and updated tags in all parts
+	Added bulkheadProfiles to those parts missing it
+	Converted textures to dds

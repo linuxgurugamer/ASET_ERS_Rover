@@ -1,0 +1,38 @@
+{
+  "NAME": "ASET_ERS",
+  "URL": "http://ksp.spacetux.net/avc/ASET_ERS",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/ASET_ERS_Rover/releases/latest",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "ASET_ERS_Rover",
+    "ALLOW_PRE_RELEASE": false
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 4,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 3
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 10,
+    "PATCH": 0
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "ASET_ERS",
+    "PATH": "ASET",
+    "DIRECTORY": "ERS",
+    "FILE": "ASET_ERS.version"
+  },
+  "INSTALL_LOC_2": {
+    "NAME": "ASET_Konquest",
+    "PATH": "ASET",
+    "DIRECTORY": "Konquest",
+    "FILE": "ASET_ERS.version"
+  }
+}

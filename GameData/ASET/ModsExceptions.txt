@@ -1,0 +1,3 @@
+ClearPlate.png
+ClearTexture.png
+Empty.png
