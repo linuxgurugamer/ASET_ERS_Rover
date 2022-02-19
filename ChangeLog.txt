@@ -15,3 +15,7 @@ ChangeLog
     Updated categories for various parts
     Updated descriptions
     Added support for JSIAdvancedTransparentPods, to make the front windows transparent
+    
+0.4.0.2
+    Fixed conflicting file with the ASET PRC mod
+    Deleted unnecessary files
