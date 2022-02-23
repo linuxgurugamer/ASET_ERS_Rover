@@ -19,3 +19,7 @@ ChangeLog
 0.4.0.2
     Fixed conflicting file with the ASET PRC mod
     Deleted unnecessary files
+
+0.4.0.3
+	Thanks to github user @AtomikkuSan for updating ALL the descriptions and
+	titles
