@@ -9,17 +9,20 @@ ChangeLog
 	Added and updated tags in all parts
 	Added bulkheadProfiles to those parts missing it
 	Converted textures to dds
-    
+	
 0.4.0.1 
-    Changed category for wheels from utility to ground
-    Updated categories for various parts
-    Updated descriptions
-    Added support for JSIAdvancedTransparentPods, to make the front windows transparent
-    
+	Changed category for wheels from utility to ground
+	Updated categories for various parts
+	Updated descriptions
+	Added support for JSIAdvancedTransparentPods, to make the front windows transparent
+	
 0.4.0.2
-    Fixed conflicting file with the ASET PRC mod
-    Deleted unnecessary files
+	Fixed conflicting file with the ASET PRC mod
+	Deleted unnecessary files
 
 0.4.0.3
 	Thanks to github user @AtomikkuSan for updating ALL the descriptions and
 	titles
+
+0.4.0.4
+	Added NEEDS clause to all modules which reference either the JSIPartUtilities or RasterPropMonitor
