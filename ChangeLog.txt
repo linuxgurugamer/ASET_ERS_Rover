@@ -26,3 +26,7 @@ ChangeLog
 
 0.4.0.4
 	Added NEEDS clause to all modules which reference either the JSIPartUtilities or RasterPropMonitor
+	
+0.4.0.5
+	Updated version file to use github for new version info
+	Added README-LGG.md
