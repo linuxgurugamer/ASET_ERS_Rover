@@ -30,3 +30,6 @@ ChangeLog
 0.4.0.5
 	Updated version file to use github for new version info
 	Added README-LGG.md
+	
+0.4.0.6
+	Thanks to github user @KSAMissionCtrl for pointing out a syntax error in the ERS_SM.cfg file

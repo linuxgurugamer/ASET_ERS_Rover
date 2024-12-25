@@ -11,7 +11,7 @@
     "MAJOR": 0,
     "MINOR": 4,
     "PATCH": 0,
-    "BUILD": 5
+    "BUILD": 6
   },
   "KSP_VERSION": {
     "MAJOR": 1,
@@ -29,15 +29,15 @@
     "PATCH": 99
   },
   "INSTALL_LOC_1": {
-    "NAME": "ASET_ERS",
-    "PATH": "ASET",
-    "DIRECTORY": "ERS",
-    "FILE": "ASET_ERS.version"
+    "NAME": 		"ASET_ERS",
+    "PATH": 		"ASET",
+    "DIRECTORY": 	"ERS",
+    "FILE": 		"ASET_ERS.version"
   },
   "INSTALL_LOC_2": {
-    "NAME": "ASET_Konquest",
-    "PATH": "ASET",
-    "DIRECTORY": "Konquest",
-    "FILE": "ASET_ERS.version"
+    "NAME":			"ASET_Konquest",
+    "PATH": 		"ASET",
+    "DIRECTORY": 	"Konquest",
+    "FILE": 		"ASET_ERS.version"
   }
 }
