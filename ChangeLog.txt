@@ -33,3 +33,7 @@ ChangeLog
 	
 0.4.0.6
 	Thanks to github user @KSAMissionCtrl for pointing out a syntax error in the ERS_SM.cfg file
+
+0.4.0.7
+	Thanks to github user @KSAMissionCtrl for noticing this:
+		Fixed multiple tag entries for the part ERS_ACM
